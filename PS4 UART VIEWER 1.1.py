@@ -24,7 +24,7 @@ class UartViewer(QMainWindow):
 
     def initUI(self):
         self.setWindowTitle("PS4 UART VIEWER")
-        self.setGeometry(100, 100, 800, 600)  # Establece la resolución de la ventana
+        self.setGeometry(100, 100, 1024, 768)  # Establece la resolución de la ventana
 
         main_widget = QWidget(self)
         self.setCentralWidget(main_widget)
