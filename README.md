@@ -10,7 +10,7 @@ Conexión y Desconexión Rápida:
 El programa facilita la conexión y desconexión con el dispositivo UART seleccionado. Los usuarios pueden elegir un puerto COM disponible y establecer la velocidad de transmisión (baudios) antes de iniciar la conexión.
 
 Registro de Log:
-La aplicación incluye una función de registro de log que registra todas las interacciones y eventos importantes. Los usuarios pueden acceder al registro de log para revisar actividades pasadas y solucionar problemas si es neces![Captura de pantalla 2024-09-28 085244](https://github.com/user-attachments/assets/c26dd803-c467-4949-a57e-34ac503aa401)
+La aplicación incluye una función de registro de log que registra todas las interacciones y eventos importantes. Los usuarios pueden acceder al registro de log para revisar actividades pasadas y solucionar problemas si es neces
 ario.
 
 Guardado de Datos en SQLite:
@@ -25,3 +25,4 @@ Si bien "PS4 UART Viewer" ofrece una funcionalidad sólida, existen oportunidade
 Conclusiones:
 En resumen, "PS4 UART Viewer" es una herramienta valiosa para aquellos que trabajan con dispositivos UART y desean una forma fácil de interactuar y registrar datos. Su capacidad para guardar datos en una base de datos SQLite facilita el análisis posterior y la toma de decisiones informadas. Con una interfaz de usuario intuitiva, esta aplicación simplifica la gestión de la comunicación UART y el monitoreo en tiempo real.
 ![Uploading Captura de pantalla 2024-09-28 085244.png…]()
+![Captura de pantalla 2024-09-28 085244](https://github.com/user-attachments/assets/c26dd803-c467-4949-a57e-34ac503aa401)
